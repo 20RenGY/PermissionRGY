@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "PermissionRGY"
 include ':app'
+include ':app:myapplication'
